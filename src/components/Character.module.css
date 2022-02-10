@@ -1,0 +1,16 @@
+.cardCharacter{
+    list-style: none;
+    border-radius: 5px;
+    width: 100%;
+    background-image: url(https://images.pexels.com/photos/5251883/pexels-photo-5251883.jpeg); 
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.text{
+    color: #e6e6e6;
+    text-decoration: underline;
+    margin: 1rem;
+    
+  }

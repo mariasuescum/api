@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    
+    align-items: center;
+    justify-content: space-between;
+    padding: 7rem;
+    background: rgb(118, 196, 16);
+    background-image: url(https://www.logolynx.com/images/logolynx/b4/b4c778e995540fc7d344a1ddf33a035b.png)
+    
+  }
+  
+  .text{
+    color: #000000;
+    text-decoration: none;
+    margin: 1rem;
+    font-size: 1.2rem;
+    
+  }
+  
+  .text:hover{
+    color: #230981;
+  }
